@@ -4,7 +4,6 @@ This project is a Todo application built using Laravel, Vue.js, and Tailwind CSS
 
 ### Screenshots
 
-![Todo App Screenshot](/doc/screenshots/Screenshot 2024-06-10 131858.png)
 doc/sreenshots/Screenshot 2024-06-10 131858.png
 
 ![Todo App Screenshot](/doc/screenshots/Screenshot 2024-06-10 131940.png)
